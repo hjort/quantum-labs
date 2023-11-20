@@ -1,2 +1,2 @@
 # quantum-labs
-Quantum COmputing Labs
+Quantum Computing Labs
